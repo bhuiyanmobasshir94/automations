@@ -27,8 +27,8 @@ class TelegramNotifier:
 # Usage example
 async def main():
     # Replace with your actual bot token and chat ID
-    BOT_TOKEN = "8027747460:AAFSHn_qifWwTzwgQvyLQtnIouxDqY31oMI"
-    CHAT_ID = "7320456482"
+    BOT_TOKEN = ""
+    CHAT_ID = ""
     
     notifier = TelegramNotifier(BOT_TOKEN, CHAT_ID)
     

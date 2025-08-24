@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-08-24T14:29:57.163068",
+    "duration_seconds": 21.927709,
+    "download_bps": 34142119.43376676,
+    "upload_bps": 65764461.70492768,
+    "download_speed": 34.14211943376676,
+    "upload_speed": 65.76446170492768,
+    "speed_unit": "Mbps",
+    "ping_ms": 0,
+    "server": {
+      "id": "12462",
+      "sponsor": "SamOnline",
+      "name": "Dhaka",
+      "country": "Bangladesh",
+      "distance_km": 8.128986443690012,
+      "latency_ms": 6.977
+    },
+    "method": "speedtest-py",
+    "alerts": []
+  }
+]

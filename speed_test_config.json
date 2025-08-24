@@ -1,0 +1,16 @@
+{
+  "history_file": "speed_test_history.json",
+  "log_file": "speed_test.log",
+  "test_servers": [],
+  "test_count": 1,
+  "include_ping": true,
+  "include_jitter": true,
+  "timeout_seconds": 60,
+  "preferred_units": "Mbps",
+  "save_detailed_results": true,
+  "alert_thresholds": {
+    "min_download_mbps": 10.0,
+    "min_upload_mbps": 1.0,
+    "max_ping_ms": 100.0
+  }
+}
